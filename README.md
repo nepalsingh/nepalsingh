@@ -19,5 +19,3 @@
 👀 Work with business, project managers, and a number of teams to understand requirements, define cost-effective strategy for data, architecture, security, integration, infrastructure, HA and fail-safe optimal solutions.<br />
 👀 Worked as a part of a team in 24x7 production environment and provided on-call and day-to-day support.<br />
 👀 Experience in working with Supply Chain, e-commerce, and financial banking business domains.<br />
-<br />
-<br />
