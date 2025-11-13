@@ -1,21 +1,81 @@
-👋 Hi, I’m @nepalsingh<br />
-👀 Over 20 years of Experience in managing infrastructure on-premises and cloud, building data warehouse and analytics.<br />
-👀 Organize Terraform code into modules for better modularity and abstraction.<br />
-👀 Implemented Infrastructure as Code (IaC) using Terraform on Google Cloud Platform (GCP) and Amazon Web Services (AWS) to automate the provisioning of cloud resources.<br />
-👀 Successfully managed and deployed scalable and resilient infrastructure components, improving deployment efficiency.<br />
-👀 Managing the team of DBA in relational database technology Oracle, MS-SQL Server, MongoDB, and PostgreSQL.<br />
-👀 Managed team of 10+ employees and temporary consultants which includes core database of Oracle and SQL Server and Oracle Applications business suites.<br />
-👀 Over 10 years of working with data to develop ETL processes and database management. My proficiency in technologies such as PySpark, Apache Spark, Hadoop, SQL, and NoSQL databases helped me develop robust and scalable data pipelines.<br />
-👀 Expertise in data modeling in Erwin, SQL BI, and Snowflake for creating star schema for multi-dimension modeling.<br />
-👀 Expertise in setup and maintenance of Oracle Real Application Clusters (RAC) and HOT Standby Database for high availability.<br />
-👀 Experience with creating a single sign-on using Oracle Access Management for application and infrastructure connectivity.<br />
-👀 Build predictive analytics application for IOT startup using Elasticsearch Logstash and Kibana stack.<br />
-👀 Experienced in managing the Bigdata and NoSQL database cluster of Hadoop, MongoDB, Elasticsearch, Logstash, and Kibana (ELK) stack.<br />
-👀 Built database admin and architect team, defined and executed database strategy for high volume, heavy transactional projects, maintained 99.99% uptime, controlled and reduce operational budget, create optimal processes, and supported existing environments.<br />
-👀 DBA, data architects, database developers and system analysts who support databases, design data models, develop code and integrate with other systems.<br />
-👀 Spearheaded 5 Web projects to architect high performance and fail-safe backend which was developed in JAVA and PHP using Tomcat and Apache. Manage many WEB applications, Oracle ERP, Siebel, Peoplesoft, and data warehouse database environments.<br />
-👀 Managed up to $4.5 million budget for database operations and saved $632K by reducing the cost and budget of IT infrastructure by planning, coordination, implementing cost-effective solutions, and database consolidation which reduced licensing, maintenance, and hardware cost.<br />
-👀 Manage projects, hiring, coordination with business units, and projects, performance review of employees, project funding/budgeting, dealing with vendors and clients, pricing, presentation and risk management.<br />
-👀 Work with business, project managers, and a number of teams to understand requirements, define cost-effective strategy for data, architecture, security, integration, infrastructure, HA and fail-safe optimal solutions.<br />
-👀 Worked as a part of a team in 24x7 production environment and provided on-call and day-to-day support.<br />
-👀 Experience in working with Supply Chain, e-commerce, and financial banking business domains.<br />
+# Hi, I’m Nepal Singh 👋
+
+[![Website](https://img.shields.io/badge/website-your-site-blue)](https://your-site.example.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@nepalsingh-blue?logo=linkedin)](https://linkedin.com/in/nepalsingh) 
+[![Twitter](https://img.shields.io/badge/Twitter-@nepalsingh-1DA1F2?logo=twitter)](https://twitter.com/nepalsingh) 
+[![GitHub followers](https://img.shields.io/github/followers/nepalsingh?label=Follow&style=social)](https://github.com/nepalsingh)
+
+Full-stack engineer — I build production web apps, developer tools, and scalable backend services. I care about clean code, fast feedback loops, and useful developer experiences.
+
+---
+
+## What I do
+- 🔭 Currently: Building [Project Name](https://github.com/nepalsingh/project) — short, concrete description of the project and the value it delivers.
+- 🌱 Learning: Kotlin, advanced distributed systems, and more efficient observability.
+- 👯 Open to: collaborating on developer tooling, infra automation, and accessibility improvements.
+- 💬 Ask me about: TypeScript, React, Node.js, system design, testing strategies.
+- ⚡ Fun fact: I love mountain photography and often go hiking on weekends.
+
+---
+
+## Skills
+- Languages: TypeScript, JavaScript, Python, Go
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, GraphQL, REST
+- Data & Storage: Postgres, Redis
+- DevOps & Cloud: Docker, Kubernetes, AWS (Lambda, ECS), GitHub Actions
+- Testing & CI: Jest, React Testing Library, Cypress
+
+---
+
+## Selected projects
+- Project One — short one-line summary explaining purpose & impact.  
+  Tech: TypeScript, Node.js, Postgres  
+  Repo: https://github.com/nepalsingh/project-one
+
+- Project Two — small CLI/tool that solves X for Y.  
+  Tech: Go, Cobra  
+  Repo: https://github.com/nepalsingh/project-two
+
+- Personal site / Blog — writing about engineering and career lessons.  
+  Site: https://your-site.example.com
+
+See my pinned repos on my profile for more.
+
+---
+
+## Open source & contributions
+- Regular contributor to: [owner/repoA](https://github.com/owner/repoA), [owner/repoB](https://github.com/owner/repoB)
+- Notable PR: https://github.com/owner/repo/pull/123 — short description of the fix or improvement.
+
+---
+
+## Talks & Writing
+- "Talk Title" — Event (slides/video)
+- "Article Title" — quick summary (link)
+
+---
+
+## GitHub stats
+[![Nepal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepalsingh&show_icons=true&theme=github_dark)](https://github.com/nepalsingh)
+
+---
+
+## Contact
+- LinkedIn: https://linkedin.com/in/nepalsingh
+- Twitter: https://twitter.com/nepalsingh
+
+Best for collaboration: open an issue or PR on the relevant repo; for work opportunities, email is preferred.
+
+---
+
+## How you can help
+- Try and star projects you find useful
+- Open issues with feature requests or bugs
+- Send PRs — I review and merge improvements
+
+---
+
+Want a shorter version for a GitHub profile README? I can produce a 3-line compact variant with just an elevator pitch, top project link, and contact method.
+
+License: CC0 / adapt as you wish
