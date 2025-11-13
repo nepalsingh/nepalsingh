@@ -10,7 +10,7 @@ Full-stack engineer — I build production web apps, developer tools, and scalab
 ---
 
 ## What I do
-- 🔭 Currently: Building [Project Name](https://github.com/nepalsingh/project) — short, concrete description of the project and the value it delivers.
+- 🔭 Currently: Building [Accounting Lead Management System](https://github.com/nepalsingh/project) — short, concrete description of the project and the value it delivers.
 - 🌱 Learning: Kotlin, advanced distributed systems, and more efficient observability.
 - 👯 Open to: collaborating on developer tooling, infra automation, and accessibility improvements.
 - 💬 Ask me about: TypeScript, React, Node.js, system design, testing strategies.
@@ -19,6 +19,9 @@ Full-stack engineer — I build production web apps, developer tools, and scalab
 ---
 
 ## Skills
+- Data LekeHouse: Databricks, Snowflake
+- Cloud: AWS, Azure, GCP
+- Automation & IAC: Ansible, Terraform, Python
 - Languages: TypeScript, JavaScript, Python, Go
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express, GraphQL, REST
@@ -29,11 +32,11 @@ Full-stack engineer — I build production web apps, developer tools, and scalab
 ---
 
 ## Selected projects
-- Project One — short one-line summary explaining purpose & impact.  
+- Leads Management System— short one-line summary explaining purpose & impact.  
   Tech: TypeScript, Node.js, Postgres  
   Repo: https://github.com/nepalsingh/project-one
 
-- Project Two — small CLI/tool that solves X for Y.  
+- Accounting Marketing — small CLI/tool that solves .  
   Tech: Go, Cobra  
   Repo: https://github.com/nepalsingh/project-two
 
